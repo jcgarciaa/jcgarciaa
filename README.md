@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13227](https://github.com/wso2/product-is/issues/13227) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗️ Opened issue [#13030](https://github.com/wso2/product-is/issues/13030) in [wso2/product-is](https://github.com/wso2/product-is)
-3. ❗️ Opened issue [#13009](https://github.com/wso2/product-is/issues/13009) in [wso2/product-is](https://github.com/wso2/product-is)
-4. 💪 Opened PR [#2790](https://github.com/wso2/docs-is/pull/2790) in [wso2/docs-is](https://github.com/wso2/docs-is)
-5. 💪 Opened PR [#2789](https://github.com/wso2/docs-is/pull/2789) in [wso2/docs-is](https://github.com/wso2/docs-is)
+1. 🗣 Commented on [#2874](https://github.com/wso2/docs-is/issues/2874) in [wso2/docs-is](https://github.com/wso2/docs-is)
+2. 💪 Opened PR [#2874](https://github.com/wso2/docs-is/pull/2874) in [wso2/docs-is](https://github.com/wso2/docs-is)
+3. 🗣 Commented on [#13289](https://github.com/wso2/product-is/issues/13289) in [wso2/product-is](https://github.com/wso2/product-is)
+4. 💪 Opened PR [#13289](https://github.com/wso2/product-is/pull/13289) in [wso2/product-is](https://github.com/wso2/product-is)
+5. 🗣 Commented on [#398](https://github.com/wso2/identity-rest-dispatcher/issues/398) in [wso2/identity-rest-dispatcher](https://github.com/wso2/identity-rest-dispatcher)
 <!--END_SECTION:activity-->
 
 ![Juan C. Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgarciaa&count_private=true&show_icons=true&hide_border=true)
