@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14865](https://github.com/wso2/product-is/issues/14865) in [wso2/product-is](https://github.com/wso2/product-is)
-2. 💪 Opened PR [#3345](https://github.com/wso2/docs-is/pull/3345) in [wso2/docs-is](https://github.com/wso2/docs-is)
-3. 💪 Opened PR [#3344](https://github.com/wso2/docs-is/pull/3344) in [wso2/docs-is](https://github.com/wso2/docs-is)
-4. ❗️ Opened issue [#14723](https://github.com/wso2/product-is/issues/14723) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ❗️ Opened issue [#15023](https://github.com/wso2/product-is/issues/15023) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗️ Opened issue [#14865](https://github.com/wso2/product-is/issues/14865) in [wso2/product-is](https://github.com/wso2/product-is)
+3. 💪 Opened PR [#3345](https://github.com/wso2/docs-is/pull/3345) in [wso2/docs-is](https://github.com/wso2/docs-is)
+4. 💪 Opened PR [#3344](https://github.com/wso2/docs-is/pull/3344) in [wso2/docs-is](https://github.com/wso2/docs-is)
 5. ❗️ Opened issue [#13989](https://github.com/wso2/product-is/issues/13989) in [wso2/product-is](https://github.com/wso2/product-is)
 <!--END_SECTION:activity-->
 
