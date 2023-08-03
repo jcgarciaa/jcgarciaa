@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7786](https://github.com/wso2/product-is/issues/7786) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗️ Reopened issue [#7786](https://github.com/wso2/product-is/issues/7786) in [wso2/product-is](https://github.com/wso2/product-is)
-3. ❗️ Opened issue [#15159](https://github.com/wso2/product-is/issues/15159) in [wso2/product-is](https://github.com/wso2/product-is)
-4. 🗣 Commented on [#3526](https://github.com/wso2/identity-apps/issues/3526) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+1. ❗ Opened issue [#16381](https://github.com/wso2/product-is/issues/16381) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#16380](https://github.com/wso2/product-is/issues/16380) in [wso2/product-is](https://github.com/wso2/product-is)
+3. ❗ Opened issue [#16229](https://github.com/wso2/product-is/issues/16229) in [wso2/product-is](https://github.com/wso2/product-is)
+4. ❗ Opened issue [#16048](https://github.com/wso2/product-is/issues/16048) in [wso2/product-is](https://github.com/wso2/product-is)
 5. 💪 Opened PR [#3526](https://github.com/wso2/identity-apps/pull/3526) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
 <!--END_SECTION:activity-->
 
