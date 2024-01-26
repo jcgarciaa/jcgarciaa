@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5311](https://github.com/wso2/identity-apps/pull/5311) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-2. 💪 Opened PR [#5310](https://github.com/wso2/identity-apps/pull/5310) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-3. 🗣 Commented on [#5220](https://github.com/wso2/identity-apps/pull/5220#issuecomment-1903953681) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-4. 💪 Opened PR [#5280](https://github.com/wso2/identity-apps/pull/5280) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-5. 💪 Opened PR [#5246](https://github.com/wso2/identity-apps/pull/5246) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+1. 💪 Opened PR [#5346](https://github.com/wso2/identity-apps/pull/5346) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+2. 💪 Opened PR [#5311](https://github.com/wso2/identity-apps/pull/5311) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+3. 💪 Opened PR [#5310](https://github.com/wso2/identity-apps/pull/5310) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+4. 🗣 Commented on [#5220](https://github.com/wso2/identity-apps/pull/5220#issuecomment-1903953681) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+5. 💪 Opened PR [#5280](https://github.com/wso2/identity-apps/pull/5280) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
 <!--END_SECTION:activity-->
 
 ![Juan C. Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgarciaa&count_private=true&show_icons=true&hide_border=true)
