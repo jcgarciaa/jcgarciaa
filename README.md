@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19822](https://github.com/wso2/product-is/issues/19822) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗ Opened issue [#19630](https://github.com/wso2/product-is/issues/19630) in [wso2/product-is](https://github.com/wso2/product-is)
-3. 💪 Opened PR [#5400](https://github.com/wso2/identity-apps/pull/5400) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-4. 💪 Opened PR [#5360](https://github.com/wso2/identity-apps/pull/5360) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
-5. 💪 Opened PR [#5346](https://github.com/wso2/identity-apps/pull/5346) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+1. ❗ Opened issue [#19852](https://github.com/wso2/product-is/issues/19852) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#19822](https://github.com/wso2/product-is/issues/19822) in [wso2/product-is](https://github.com/wso2/product-is)
+3. ❗ Opened issue [#19630](https://github.com/wso2/product-is/issues/19630) in [wso2/product-is](https://github.com/wso2/product-is)
+4. 💪 Opened PR [#5400](https://github.com/wso2/identity-apps/pull/5400) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
+5. 💪 Opened PR [#5360](https://github.com/wso2/identity-apps/pull/5360) in [wso2/identity-apps](https://github.com/wso2/identity-apps)
 <!--END_SECTION:activity-->
 
 ![Juan C. Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgarciaa&count_private=true&show_icons=true&hide_border=true)
