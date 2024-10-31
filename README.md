@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20994](https://github.com/wso2/product-is/issues/20994) in [wso2/product-is](https://github.com/wso2/product-is)
-2. 🔒 Closed issue [#20939](https://github.com/wso2/product-is/issues/20939) in [wso2/product-is](https://github.com/wso2/product-is)
-3. ❗ Opened issue [#20939](https://github.com/wso2/product-is/issues/20939) in [wso2/product-is](https://github.com/wso2/product-is)
-4. ❗ Opened issue [#20746](https://github.com/wso2/product-is/issues/20746) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ❗ Opened issue [#21536](https://github.com/wso2/product-is/issues/21536) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#20994](https://github.com/wso2/product-is/issues/20994) in [wso2/product-is](https://github.com/wso2/product-is)
+3. 🔒 Closed issue [#20939](https://github.com/wso2/product-is/issues/20939) in [wso2/product-is](https://github.com/wso2/product-is)
+4. ❗ Opened issue [#20939](https://github.com/wso2/product-is/issues/20939) in [wso2/product-is](https://github.com/wso2/product-is)
 5. ❗ Opened issue [#20508](https://github.com/wso2/product-is/issues/20508) in [wso2/product-is](https://github.com/wso2/product-is)
 <!--END_SECTION:activity-->
 
