@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22362](https://github.com/wso2/product-is/issues/22362) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ❗ Opened issue [#23220](https://github.com/wso2/product-is/issues/23220) in [wso2/product-is](https://github.com/wso2/product-is)
 2. ❗ Opened issue [#22285](https://github.com/wso2/product-is/issues/22285) in [wso2/product-is](https://github.com/wso2/product-is)
 3. ❗ Opened issue [#22035](https://github.com/wso2/product-is/issues/22035) in [wso2/product-is](https://github.com/wso2/product-is)
 4. 🗣 Commented on [#21945](https://github.com/wso2/product-is/issues/21945#issuecomment-2523346427) in [wso2/product-is](https://github.com/wso2/product-is)
