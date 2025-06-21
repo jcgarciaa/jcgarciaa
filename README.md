@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24161](https://github.com/wso2/product-is/issues/24161) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗ Opened issue [#24160](https://github.com/wso2/product-is/issues/24160) in [wso2/product-is](https://github.com/wso2/product-is)
-3. 🔓 Reopened issue [#13784](https://github.com/wso2/product-is/issues/13784) in [wso2/product-is](https://github.com/wso2/product-is)
-4. 🗣 Commented on [#13784](https://github.com/wso2/product-is/issues/13784#issuecomment-2901290263) in [wso2/product-is](https://github.com/wso2/product-is)
-5. ❗ Opened issue [#21916](https://github.com/wso2/product-is/issues/21916) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ❗ Opened issue [#24394](https://github.com/wso2/product-is/issues/24394) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#24161](https://github.com/wso2/product-is/issues/24161) in [wso2/product-is](https://github.com/wso2/product-is)
+3. ❗ Opened issue [#24160](https://github.com/wso2/product-is/issues/24160) in [wso2/product-is](https://github.com/wso2/product-is)
+4. 🔓 Reopened issue [#13784](https://github.com/wso2/product-is/issues/13784) in [wso2/product-is](https://github.com/wso2/product-is)
+5. 🗣 Commented on [#13784](https://github.com/wso2/product-is/issues/13784#issuecomment-2901290263) in [wso2/product-is](https://github.com/wso2/product-is)
 <!--END_SECTION:activity-->
 
 ![Juan C. Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgarciaa&count_private=true&show_icons=true&hide_border=true)
