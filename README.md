@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ℹ️ Labeled issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
-3. ℹ️ Labeled issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
-4. ℹ️ Labeled issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
-5. ❗ Opened issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ℹ️ Unlabeled issue [#27215](https://github.com/wso2/product-is/issues/27215) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ℹ️ Labeled issue [#27215](https://github.com/wso2/product-is/issues/27215) in [wso2/product-is](https://github.com/wso2/product-is)
+3. ℹ️ Labeled issue [#27215](https://github.com/wso2/product-is/issues/27215) in [wso2/product-is](https://github.com/wso2/product-is)
+4. ❗ Opened issue [#27215](https://github.com/wso2/product-is/issues/27215) in [wso2/product-is](https://github.com/wso2/product-is)
+5. ℹ️ Labeled issue [#27162](https://github.com/wso2/product-is/issues/27162) in [wso2/product-is](https://github.com/wso2/product-is)
 <!--END_SECTION:activity-->
 
 ![Juan C. Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgarciaa&count_private=true&show_icons=true&hide_border=true)
