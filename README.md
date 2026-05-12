@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#27755](https://github.com/wso2/product-is/issues/27755) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗ Opened issue [#27755](https://github.com/wso2/product-is/issues/27755) in [wso2/product-is](https://github.com/wso2/product-is)
-3. ℹ️ Labeled issue [#27578](https://github.com/wso2/product-is/issues/27578) in [wso2/product-is](https://github.com/wso2/product-is)
-4. ℹ️ Labeled issue [#27578](https://github.com/wso2/product-is/issues/27578) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ℹ️ Labeled issue [#27775](https://github.com/wso2/product-is/issues/27775) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#27775](https://github.com/wso2/product-is/issues/27775) in [wso2/product-is](https://github.com/wso2/product-is)
+3. ℹ️ Labeled issue [#27755](https://github.com/wso2/product-is/issues/27755) in [wso2/product-is](https://github.com/wso2/product-is)
+4. ❗ Opened issue [#27755](https://github.com/wso2/product-is/issues/27755) in [wso2/product-is](https://github.com/wso2/product-is)
 5. ℹ️ Labeled issue [#27578](https://github.com/wso2/product-is/issues/27578) in [wso2/product-is](https://github.com/wso2/product-is)
 <!--END_SECTION:activity-->
 
