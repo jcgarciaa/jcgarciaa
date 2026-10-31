@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#28393](https://github.com/wso2/product-is/issues/28393) in [wso2/product-is](https://github.com/wso2/product-is)
-2. ❗ Opened issue [#28393](https://github.com/wso2/product-is/issues/28393) in [wso2/product-is](https://github.com/wso2/product-is)
+1. ℹ️ Labeled issue [#28718](https://github.com/wso2/product-is/issues/28718) in [wso2/product-is](https://github.com/wso2/product-is)
+2. ❗ Opened issue [#28718](https://github.com/wso2/product-is/issues/28718) in [wso2/product-is](https://github.com/wso2/product-is)
 3. 🗣 Commented on [#9262](https://github.com/wso2/product-is/issues/9262#issuecomment-4544568623) in [wso2/product-is](https://github.com/wso2/product-is)
 4. 🔓 Reopened issue [#9262](https://github.com/wso2/product-is/issues/9262) in [wso2/product-is](https://github.com/wso2/product-is)
 5. ℹ️ Labeled issue [#27784](https://github.com/wso2/product-is/issues/27784) in [wso2/product-is](https://github.com/wso2/product-is)
